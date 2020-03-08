@@ -3,7 +3,8 @@ version = "scm-2"
 
 source = {
   dir="LDoc",
-  url = "git+https://github.com/stevedonovan/LDoc.git"
+  url = "git+https://github.com/s-ol/LDoc.git",
+  branch = "moonscript",
 }
 
 description = {
